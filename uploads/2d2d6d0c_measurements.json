@@ -1,0 +1,94 @@
+{
+  "file_id": "2d2d6d0c",
+  "filename": "survey_field.kml",
+  "total_features": 3,
+  "crs": "EPSG:4326",
+  "projected_crs": "EPSG:32618",
+  "features": [
+    {
+      "feature_id": "Agricultural Field",
+      "geometry_type": "Polygon",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.98,
+              40.75
+            ],
+            [
+              -73.97,
+              40.75
+            ],
+            [
+              -73.97,
+              40.76
+            ],
+            [
+              -73.98,
+              40.76
+            ],
+            [
+              -73.98,
+              40.75
+            ]
+          ]
+        ]
+      },
+      "crs": "EPSG:4326",
+      "properties": {
+        "name": "Agricultural Field",
+        "description": "Corn field parcel 1"
+      },
+      "measurement": {
+        "type": "area",
+        "value": 937188.0662,
+        "unit": "sq_meters",
+        "formatted": "937,188.07 m² (93.72 ha)"
+      }
+    },
+    {
+      "feature_id": "Access Road",
+      "geometry_type": "LineString",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98,
+            40.75
+          ],
+          [
+            -73.97,
+            40.75
+          ]
+        ]
+      },
+      "crs": "EPSG:4326",
+      "properties": {
+        "name": "Access Road"
+      },
+      "measurement": {
+        "type": "length",
+        "value": 5550761.2658,
+        "unit": "meters",
+        "formatted": "5,550,761.27 m (5,550.76 km)"
+      }
+    },
+    {
+      "feature_id": "Survey Marker",
+      "geometry_type": "Point",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975,
+          40.755
+        ]
+      },
+      "crs": "EPSG:4326",
+      "properties": {
+        "name": "Survey Marker"
+      },
+      "measurement": null
+    }
+  ]
+}

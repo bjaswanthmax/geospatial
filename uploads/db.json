@@ -1,0 +1,122 @@
+{
+  "851b6bf5": {
+    "info": {
+      "id": "851b6bf5",
+      "filename": "survey_field.kml",
+      "feature_count": 3,
+      "crs": "EPSG:4326",
+      "status": "COMPLETED",
+      "uploaded_at": "2026-10-08T06:24:10.588398+00:00"
+    },
+    "file_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\851b6bf5_survey_field.kml",
+    "measurements_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\851b6bf5_measurements.json"
+  },
+  "76469fd7": {
+    "info": {
+      "id": "76469fd7",
+      "filename": "survey_field.kml",
+      "feature_count": 3,
+      "crs": "EPSG:4326",
+      "status": "COMPLETED",
+      "uploaded_at": "2026-10-08T06:25:37.686651+00:00"
+    },
+    "file_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\76469fd7_survey_field.kml",
+    "measurements_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\76469fd7_measurements.json"
+  },
+  "440c2abe": {
+    "info": {
+      "id": "440c2abe",
+      "filename": "survey_field.kml",
+      "feature_count": 3,
+      "crs": "EPSG:4326",
+      "status": "COMPLETED",
+      "uploaded_at": "2026-10-08T06:26:37.436400+00:00"
+    },
+    "file_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\440c2abe_survey_field.kml",
+    "measurements_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\440c2abe_measurements.json"
+  },
+  "01ef78c5": {
+    "info": {
+      "id": "01ef78c5",
+      "filename": "property_data.zip",
+      "feature_count": 2,
+      "crs": "EPSG:4326",
+      "status": "COMPLETED",
+      "uploaded_at": "2026-10-08T06:26:37.518883+00:00"
+    },
+    "file_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\01ef78c5_property_data.zip",
+    "measurements_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\01ef78c5_measurements.json"
+  },
+  "2d2d6d0c": {
+    "info": {
+      "id": "2d2d6d0c",
+      "filename": "survey_field.kml",
+      "feature_count": 3,
+      "crs": "EPSG:4326",
+      "status": "COMPLETED",
+      "uploaded_at": "2026-10-08T06:27:47.987981+00:00"
+    },
+    "file_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\2d2d6d0c_survey_field.kml",
+    "measurements_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\2d2d6d0c_measurements.json"
+  },
+  "fce7370a": {
+    "info": {
+      "id": "fce7370a",
+      "filename": "property_data.zip",
+      "feature_count": 2,
+      "crs": "EPSG:4326",
+      "status": "COMPLETED",
+      "uploaded_at": "2026-10-08T06:27:48.076597+00:00"
+    },
+    "file_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\fce7370a_property_data.zip",
+    "measurements_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\fce7370a_measurements.json"
+  },
+  "298f6d5d": {
+    "info": {
+      "id": "298f6d5d",
+      "filename": "survey_field.kml",
+      "feature_count": 3,
+      "crs": "EPSG:4326",
+      "status": "COMPLETED",
+      "uploaded_at": "2026-10-08T09:31:24.920840+00:00"
+    },
+    "file_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\298f6d5d_survey_field.kml",
+    "measurements_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\298f6d5d_measurements.json"
+  },
+  "bd9d19ae": {
+    "info": {
+      "id": "bd9d19ae",
+      "filename": "property_data.zip",
+      "feature_count": 2,
+      "crs": "EPSG:4326",
+      "status": "COMPLETED",
+      "uploaded_at": "2026-10-08T09:31:25.055872+00:00"
+    },
+    "file_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\bd9d19ae_property_data.zip",
+    "measurements_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\bd9d19ae_measurements.json"
+  },
+  "cf102de7": {
+    "info": {
+      "id": "cf102de7",
+      "filename": "survey_field.kml",
+      "feature_count": 3,
+      "crs": "EPSG:4326",
+      "status": "COMPLETED",
+      "uploaded_at": "2026-10-08T09:32:11.841236+00:00"
+    },
+    "file_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\cf102de7_survey_field.kml",
+    "measurements_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\cf102de7_measurements.json"
+  },
+  "e0098992": {
+    "info": {
+      "id": "e0098992",
+      "filename": "property_data.zip",
+      "feature_count": 2,
+      "crs": "EPSG:4326",
+      "status": "COMPLETED",
+      "uploaded_at": "2026-10-08T09:32:11.929556+00:00"
+    },
+    "file_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\e0098992_property_data.zip",
+    "measurements_path": "C:\\Users\\bjasw\\OneDrive\\Desktop\\geospatial-file-measurement-api\\uploads\\e0098992_measurements.json"
+  }
+}

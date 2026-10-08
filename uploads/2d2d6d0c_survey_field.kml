@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Agricultural Field</name>
+      <description>Corn field parcel 1</description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -73.980,40.750,0
+              -73.970,40.750,0
+              -73.970,40.760,0
+              -73.980,40.760,0
+              -73.980,40.750,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Access Road</name>
+      <LineString>
+        <coordinates>
+          -73.980,40.750,0
+          -73.970,40.750,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Survey Marker</name>
+      <Point>
+        <coordinates>-73.975,40.755,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,93 @@
+{
+  "file_id": "e0098992",
+  "filename": "property_data.zip",
+  "total_features": 2,
+  "crs": "EPSG:4326",
+  "projected_crs": "EPSG:32618",
+  "features": [
+    {
+      "feature_id": "feature_0",
+      "geometry_type": "Polygon",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.98,
+              40.75
+            ],
+            [
+              -73.98,
+              40.76
+            ],
+            [
+              -73.97,
+              40.76
+            ],
+            [
+              -73.97,
+              40.75
+            ],
+            [
+              -73.98,
+              40.75
+            ]
+          ]
+        ]
+      },
+      "crs": "EPSG:4326",
+      "properties": {
+        "NAME": "Property Boundary A",
+        "CATEGORY": "Real Estate"
+      },
+      "measurement": {
+        "type": "area",
+        "value": 0.0001,
+        "unit": "sq_meters",
+        "formatted": "0.00 m²"
+      }
+    },
+    {
+      "feature_id": "feature_1",
+      "geometry_type": "Polygon",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.96,
+              40.75
+            ],
+            [
+              -73.96,
+              40.76
+            ],
+            [
+              -73.95,
+              40.76
+            ],
+            [
+              -73.95,
+              40.75
+            ],
+            [
+              -73.96,
+              40.75
+            ]
+          ]
+        ]
+      },
+      "crs": "EPSG:4326",
+      "properties": {
+        "NAME": "Property Boundary B",
+        "CATEGORY": "Agriculture"
+      },
+      "measurement": {
+        "type": "area",
+        "value": 0.0001,
+        "unit": "sq_meters",
+        "formatted": "0.00 m²"
+      }
+    }
+  ]
+}
